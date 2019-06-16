@@ -1,11 +1,9 @@
-![GitHub package.json version](https://img.shields.io/github/package-json/v/n19htz/readme-dcdm.svg)
-[![GitHub issues](https://img.shields.io/github/issues/n19htz/readme-dcdm.svg)](https://google.ru)
-# Foobar
-Foobar is a Python library for dealing with word pluralization.
+# «СБОР ДАННЫХ НА УРОВНЕ БУРОВОЙ»
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/n19htz/readme-dcdm.svg)](https://github.com/n19htz/readme-dcdm/blob/master/package.json)
+[![GitHub issues](https://img.shields.io/github/issues/n19htz/readme-dcdm.svg)](https://github.com/n19htz/readme-dcdm/issues)
+> АРМ «Рабочее место оператора, сопровождающего процесс бурения»
 
-## Описание
 Программное обеспечение предназначено:
- * Для визуализации в графическом виде цифровой информации от подрядчиков по строительству скважины. (web interface c обратной связью)
  * Для визуализации в графическом виде цифровой информации от подрядчиков по строительству скважины. (web interface c обратной связью)
  * Разделение прав пользователей.
  * Ретроспективный просмотр информации.
@@ -70,10 +68,5 @@ http://localhost:3000/
 через запятую или пробел либо использовать маску, например, чтобы запустить отладку всего приложения
 нужно установить `DEBUG=*`, или `DEBUG=dcdm:*` для отладки отдельного модуля. Более подробную информацию можно посмотреть **[здесь](https://github.com/visionmedia/debug)**.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
+## Лицензия
 [MIT](https://choosealicense.com/licenses/mit/)
