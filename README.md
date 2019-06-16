@@ -1,4 +1,4 @@
-![GitHub issues](https://img.shields.io/github/issues/n19htz/dcdm-local.svg?style=plastic)
+![GitHub issues](https://img.shields.io/github/issues/n19htz/readme-dcdm.svg?style=plastic)
 # Foobar
 Foobar is a Python library for dealing with word pluralization.
 
