@@ -57,7 +57,7 @@ npm install
 
 Самый простой способ запуска это экспортировать переменные перед запуском стартового скрипта:
 ```bash
-export PGUSER=dcdmsrv PGHOST=localhost PGDATABASE=dcdm PGPASWORD=123 PGPORT=5432 PORT=3000 npm run start
+export PGUSER=dcdmsrv PGHOST=localhost PGDATABASE=dcdm PGPASWORD=123 PGPORT=5432 PORT=3000 && npm run start
 ```
 
 В браузере:
