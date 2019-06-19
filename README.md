@@ -120,6 +120,3 @@ http://localhost:3000/
 - _`dcdm:OpRegManager`_ -  [OpRegManager.js](./OpRegManager.js)
 - _`dcdm:Users`_ -  [users.js](./users.js)
 - _`dcdm:workwithdb\dbcalc`_ -  [workwithdb/dbcalc.js](./workwithdb/dbcalc.js)
-
-## Лицензия
-[MIT](https://choosealicense.com/licenses/mit/)
